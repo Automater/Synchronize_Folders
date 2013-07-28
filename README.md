@@ -19,9 +19,9 @@ Script using AA script.
 
 2.  Copy both script files into the folder: "My Documents\Automation Anywhere\Automation Anywhere\My Tasks".  For example: "C:\Users\Photoshop\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks"
 
-A)  Server Monitoring.atmx
+A)  Synchronize Folders.atmx
  
-B)  Server Monitoring.atmr
+B)  Synchronize Folders.atmr
 
 You will be able to see the saved script in the Automation Anywhere's task pane.  Now you can run the ACL script to call the script in Automation Anywhere to perform the synchronization of folders.
 
