@@ -1,0 +1,7 @@
+@ACL1000
+^LOGFILE  Synchronize_Folders                 "" "Synchronize_Folders.LOG"
+[PARENT_FOLDER_ID] 0
+^BATCH    Synchronize_Folders                
+[PARENT_FOLDER_ID] 0
+EXECUTE '"C:\ACL_DATA\Synchronize_Folders\SynchronizeFolders.bat"' ASYNC
+^OPEN 
